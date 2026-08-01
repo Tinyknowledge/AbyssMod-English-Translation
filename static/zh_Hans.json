@@ -666,8 +666,10 @@
   },
   "StoryEvent": {
     "HeaderTitle": "ストーリーイベント",
-    "NovelPopup.ConfirmMessageFormat": "'{0}\\nしますか? '",
-    "NovelPopup.NotifyMessageFormat": "'{0}\\nがUnlockされました. Rebirth? '"
+    "NovelPopup": {
+      "ConfirmMessageFormat": "'{0}\\nしますか? '",
+      "NotifyMessageFormat": "'{0}\\nがUnlockされました. Rebirth? '"
+    }
   },
   "Tavern": {
     "CharaBalloonTextFormat": "女の子达が、スタッフとして<br> Cooperation してくれているの<br> Commander-kun のためにはりきってるわよ",
@@ -731,8 +733,10 @@
   },
   "TrainingEvent": {
     "HeaderTitle": "Raised by イベント",
-    "NovelPopup.ConfirmMessageFormat": "'{0}\\nしますか? '",
-    "NovelPopup.NotifyMessageFormat": "'{0}\\nがUnlockされました. Rebirth? '"
+    "NovelPopup": {
+      "ConfirmMessageFormat": "'{0}\\nしますか? '",
+      "NotifyMessageFormat": "'{0}\\nがUnlockされました. Rebirth? '"
+    }
   },
   "Tutorial": {
     "PrologueEnd": "チュートリアルはこれでEnd です. <br>タイトルに戻ります. <br>Introductionき続きゲームをお楽しみください.",
