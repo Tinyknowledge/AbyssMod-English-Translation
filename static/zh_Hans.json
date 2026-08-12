@@ -9636,11 +9636,17 @@
       "魔法石から抽出されたエネルギー源。\n「厄災戦」で強力な防衛施設を設置するのに必要となる。": "Energy extracted from the Philosopher's Stone.\nIt is needed when setting up strong defense facilities in \"Disaster War\"."
     }
   },
-  "Shop": {
-    "Exchange": "Exchange",
-    "PurchaseItemReceivedPopupMessage": "The following items were purchased.",
-    "ExpiredPopupText": "The exchange period has ended.",
-    "ExchangeAvailablePeriodTitle": "Exchange Period:",
-    "ExchangeUntilTitle": "Until Refresh:"
+  "m_degrees": {
+    "display_text": {
+      "初心者司令官": "Beginner Commander",
+      "新任司令官": "New Commander",
+      "中堅司令官": "Veteran Commander",
+      "熟練司令官": "Experienced Commander",
+      "深淵の探索者": "Abyss Explorer",
+      "人類の守護者": "Guardian of Humanity",
+      "夜の帝王": "Emperor of the Night",
+      "第一人者": "Pioneer",
+      "VIP": "VIP"
+    }
   }
 }
