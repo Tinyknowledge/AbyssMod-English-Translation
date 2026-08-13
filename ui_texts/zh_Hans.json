@@ -1154,5 +1154,18 @@
   "マイレージ": "Mileage",
   "武器 Lv": "Weapon Lv.",
   "防具 Lv": "Armor Lv.",
-  "アクセサリ Lv": "Accessory Lv."
+  "アクセサリ Lv": "Accessory Lv.",
+  "現在の累計報酬ポイントLv：Lv{0}": "Current Total Reward Point Lv.: Lv. {0}",
+  "厄災の脅威が迫っています！<br>司令官！": "A Calamity threat is approaching!<br>Commander!",
+  "アイテムを使用してアビリティ強化を行います。": "Use items to enhance the ability.",
+  "「施設」「前線基地開発計画」が解放されました。": "Facilities and Frontline Base Development have been unlocked.",
+  "発動条件を満たしていないマナクリスタルがセットされています。": "A Mana Crystal that does not meet its activation condition is equipped.",
+  "有償アビスジェムが不足しています。\n<color=#4CF37B>ショップ</color>へいきますか？": "Not enough Paid Abyss Gems.\nGo to the <color=#4CF37B>Shop</color>?",
+  "迎撃が間に合わなかった厄災は守備隊によって討伐され、消滅しました。<br>報酬を受け取ることはできません。": "The Calamity was defeated by the defense force before interception.<br>No rewards can be claimed.",
+  "{0}を消費して<color=#4CF37Bff>「{1}」</color>の<br>討伐依頼を請け負います。": "Spend {0} to accept the<br><color=#4CF37Bff>“{1}”</color> subjugation request.",
+  "この探索隊はまだ解放されていません。\n司令本部の施設のアップグレードを進めると探索隊を編成できるようになります。": "This Expedition Team is still locked.\nUpgrade Command HQ facilities to unlock it.",
+  "「{0}」の新しいアビリティ<br><color=#4cf37b>「{1}」</color>を解放可能になりました。": "A new ability for “{0}” can now be unlocked:<br><color=#4cf37b>“{1}”</color>.",
+  "<cspace=-0.1em>ワンタイムコード</cspace>": "<cspace=-0.1em>One-Time Code</cspace>",
+  "キャラクターストーリーが開放されました。<br>閲覧しますか？": "Character Story unlocked.<br>View it now?",
+  "限界突破レベルが最大になりました。<color=#4cf37b>マナ覚醒</color>が開放されました。": "Limit Break Level is maxed.<color=#4cf37b>Mana Awakening</color> unlocked."
 }
