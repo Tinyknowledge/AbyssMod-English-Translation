@@ -1,5 +1,5 @@
 {
-  "<user>とヒュメナは、夜の海岸へ泳ぎにきていた。<br>月明かりの下、ふたりは何度目かの競争に挑んでいる。": "%user% and Humena had come to the beach at night to swim.<br>Under the moonlight, the two of them were challenging each other to yet another race.",
+  "<user>とヒュメナは、夜の海岸へ泳ぎにきていた。<br>月明かりの下、ふたりは何度目かの競争に挑んでいる。": "<user> and Humena had come to the beach at night to swim.<br>Under the moonlight, the two of them were challenging each other to yet another race.",
   "やっふ～～～～！！": "Woohoo~~~~!!",
   "あははっ！　また私の勝ちだね！": "Haha! I win again!",
   "くっ……また負けた……<br>泳ぐの速すぎだろ。": "Ugh... lost again...<br>You're way too fast at swimming.",
@@ -22,6 +22,6 @@
   "ふふっ、仕方ない子だなぁ……": "Heh, you're such a hopeless case...",
   "こ、子ども扱いは止めろよ……": "D-don't treat me like a kid...",
   "いいよ……してあげる……。<br>素敵な衣装を買ってくれた上に、嬉しいこと言ってくれたし……": "Alright... I'll do it for you...<br>You bought me this lovely outfit and said such sweet things...",
-  "ヒュメナは人魚のように海の中を泳ぎ、<br>そっと<user>に寄り添い、優しく手を取った。": "Hyumena swam through the water like a mermaid,<br>slid up beside %user% and gently took his hand.",
+  "ヒュメナは人魚のように海の中を泳ぎ、<br>そっと<user>に寄り添い、優しく手を取った。": "Hyumena swam through the water like a mermaid,<br>slid up beside <user> and gently took his hand.",
   "――いい子にはご褒美をあげないとね♪": "――Good children deserve a reward, don't they?♪"
 }

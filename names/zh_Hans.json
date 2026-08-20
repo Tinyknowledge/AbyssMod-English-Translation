@@ -1,6 +1,6 @@
 {
-  "<user>": "%user%",
-  "<user>・アリシア": "%user%・Alicia",
+  "<user>": "<user>",
+  "<user>・アリシア": "<user>・Alicia",
   "アリシア": "Alicia",
   "クレハ": "red leaves",
   "グラディア": "Gratia",
@@ -350,7 +350,7 @@
   "人型厄災": "Humanoid Disaster",
   "アイシャ": "Elsa",
   "クリスティ": "Christie",
-  "クリスティ・<user>": "Christie %user%",
+  "クリスティ・<user>": "Christie <user>",
   "フィオナ": "Fiona",
   "フィオナ<娼館>": "Fiona <Whorehouse>",
   "ポパパポパ": "poppa poppa",

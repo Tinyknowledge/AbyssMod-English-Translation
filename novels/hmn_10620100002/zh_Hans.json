@@ -1,6 +1,6 @@
 {
   "<size=48>――数時間後</size>": "<size=48>――A few hours later</size>",
-  "<user>はヒナギを連れて<br>前線基地に到着していた。それからすぐ、ヒナギをアリシアに紹介する。": "%user% arrived at the front-line base with Hinagi.<br>They immediately introduced Hinagi to Alicia.",
+  "<user>はヒナギを連れて<br>前線基地に到着していた。それからすぐ、ヒナギをアリシアに紹介する。": "<user> arrived at the front-line base with Hinagi.<br>They immediately introduced Hinagi to Alicia.",
   "川の様子を見に行ったときに、そんなことが……！<br>ヒナギさん、司令官が大変お世話になりました。": "When I went to check on the river, something like that happened...!<br>Miss Hinagi, thank you so much for taking care of the Commander.",
   "いえいえ。私のほうこそ、ご案内いただけてありがたかったです！": "Not at all. I'm the one who should thank you for showing me around!",
   "さっそくヒナギから色々と話を聞いていきたい。<br>まずは、前線基地を目指していた理由だが――": "I want to hear everything from Hinagi right away.<br>First: the reason you were headed for the frontline base—",
@@ -77,7 +77,7 @@
   "いいえ。今日は宿舎で荷物の整理もしたいですし、遠慮いたします。": "No. I still need to sort through my things in the dormitory today, so I'll pass.",
   "そうか。……じゃあ、あまり時間はないんだが、<br>お前が前線基地に来た目的は聞いておきたい。話してくれるか？": "I see. ...Well, I don't have much time, but<br>I want to hear why you came to the frontline base. Will you tell me?",
   "えぇ、もちろんですっ！": "Yes, of course!",
-  "――ヒナギから話を聞いた<user>は<br>すぐさま探索許可を出し、大穴の調査に同行させることを約束した。": "――After hearing Hinagi's story, %user%<br>immediately issued an exploration permit and promised to let her accompany the investigation of the large cavern.",
+  "――ヒナギから話を聞いた<user>は<br>すぐさま探索許可を出し、大穴の調査に同行させることを約束した。": "――After hearing Hinagi's story, <user><br>immediately issued an exploration permit and promised to let her accompany the investigation of the large cavern.",
   "ありがとうございます！": "Thank you so much!",
   "こちらこそ、よろしく頼む。陰陽師のことはもっと詳しく聞いておきたい。<br>また今度、食事に行こうな。": "Likewise — I'm counting on you. I'd like to hear more about the onmyoji.<br>Let's go eat together again sometime.",
   "はい。約束いたしました。<br>楽しみにしていますねっ！": "Yes. I promise.<br>I'm looking forward to it!",

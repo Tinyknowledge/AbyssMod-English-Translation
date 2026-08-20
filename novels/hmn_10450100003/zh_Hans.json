@@ -19,7 +19,7 @@
   "（下手に刺激したら飛び掛かってくる……やられる！）": "(If I provoke it carelessly it'll pounce... I'll be done for!)",
   "前線での実践経験はないイオラだが、格闘家である父との組手経験は豊富。<br>時折本気を見せてくれた父との鍛練の経験が、イオラに危機を直感させた。": "Iola had no frontline combat experience, but she had plenty of sparring with her martial-artist father.<br>The times her father got serious during training had taught her to sense danger by instinct.",
   "（やっぱ逃げらんないっぽいな……<br>あたし１人でこいつをどうにかするしかない、ってこと？）": "(Looks like I can't run away after all...<br>So that means I have to deal with this thing by myself?)",
-  "ふと、<user>の言葉がよぎる。": "Suddenly, %user%'s words flashed through her mind.",
+  "ふと、<user>の言葉がよぎる。": "Suddenly, <user>'s words flashed through her mind.",
   "魔法使いなんだから魔法で、なんてこだわるな。得意の格闘術でも<br>なんでも使って、絶対に生き延びろ。いいな？": "Don't get hung up on doing it with magic just because you're a mage. Use your favored martial arts or anything else—<br>just make sure you survive. Got it?",
   "イオラが選んだ構えは魔法使いが呪文を唱える姿勢ではなく、<br>慣れ親しんだ格闘家の構えだった。": "Iola's stance wasn't that of a mage chanting a spell,<br>but the familiar fighting stance of a martial artist.",
   "グォオッ！！": "Gwaah!!",
@@ -48,7 +48,7 @@
   "イオラ！　無事か！？": "Iora! Are you all right?!",
   "でやでやでやでやーっ！": "Hyah hyah hyah hyah—!",
   "……えっ？": "…Huh?",
-  "<user>が駆け付けると、<br>拳に火を宿したイオラがモンスター相手に暴れ回っていた。": "%user% arrived, and<br>Iora, her fists wreathed in fire, was rampaging through the monsters.",
+  "<user>が駆け付けると、<br>拳に火を宿したイオラがモンスター相手に暴れ回っていた。": "<user> arrived, and<br>Iora, her fists wreathed in fire, was rampaging through the monsters.",
   "いけー！　あたしの火炎魔法！<br>フレイムフィストーーー！！！": "Go! My fire magic!<br>Flame Fist!!!",
   "ギギギィイイ！？": "Giiiiii!?",
   "拳を振るうたびに火の玉が飛んでいき、モンスターに命中し続ける。<br>猛攻を受けたモンスターは力を失い、絶命した。": "Each time she threw a punch, fireballs flew out and kept striking the monsters.<br>Under the relentless assault, the monsters lost their strength and perished.",
@@ -96,6 +96,6 @@
   "ハッハッハ。確かにな。<br>まぁ、仕事に差し支えない範囲でなら教えてやる。": "Ha ha ha. True enough.<br>Well, as long as it doesn't interfere with my work, I'll teach you.",
   "やったねーっ♪": "Yay—♪",
   "どわっ！？": "Whoa!?",
-  "イオラは<user>にいきなり抱き付いた。": "Iora suddenly hugged %user%.",
+  "イオラは<user>にいきなり抱き付いた。": "Iora suddenly hugged <user>.",
   "これからよろしくね、先生♪": "Please look after me from now on, teacher♪"
 }

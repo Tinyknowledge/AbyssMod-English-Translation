@@ -1,5 +1,5 @@
 {
-  "<user>と別れたあと、<br>アリシアはリタを連れて司令室へ移動した。": "After parting with %user%,<br>Alicia moved to the command room with Rita.",
+  "<user>と別れたあと、<br>アリシアはリタを連れて司令室へ移動した。": "After parting with <user>,<br>Alicia moved to the command room with Rita.",
   "まったく！　本当に失礼で無礼な方！<br>怒りが収まりません！": "Honestly! Such rude, disrespectful behavior!<br>I can't calm down!",
   "まぁまぁ……そんなに怒らないでください。<br>わたしがリタさんのお話、聞きますから。": "Now, now... please don't be so angry.<br>I'll listen to what Rita has to say.",
   "……ありがとうございます。アリシアさんみたいな素敵な方が<br>あんな方の下で働いているなんて、納得できません。可哀想です。": "…Thank you.<br>I can't understand how someone as wonderful as Alicia could be working under that sort of person. I feel so sorry for you.",
@@ -32,7 +32,7 @@
   "――ガチャ。": "—Click.",
   "ん？　なんだお前たち、ここにいたのか。": "Hm? What are you two doing here?",
   "……！　司令官さま……！": "……! Commander……!",
-  "<user>が入ってくると、数名の兵士たちがあとに続いた。": "When %user% entered, several soldiers followed behind.",
+  "<user>が入ってくると、数名の兵士たちがあとに続いた。": "When <user> entered, several soldiers followed behind.",
   "場所を変えますか？": "Shall we move somewhere else?",
   "構わん。リタ、悪いが出て行ってもらえるか。<br>アリシアを交えて少し話がある。部外者は立ち入り禁止だ。": "No. Rita, sorry—could you step outside?<br>I need to speak with Alicia for a moment. No outsiders allowed.",
   "まぁっ！　わざわざ嫌な言い方を……！<br>言われなくても、出て行きますわよ！": "Oh! You had to put it so unpleasantly……!<br>I don't need you to tell me to leave—I will!",
@@ -40,7 +40,7 @@
   "いえ。アリシアさんが悪いわけではありません。<br>失礼しますね。": "No. It's not Alicia's fault.<br>I'll be going, then.",
   "あとで宿の手配をしますから、基地内で待っていてください～！": "I'll arrange lodging later, so please wait inside the base～!",
   "本当にもう！　嫌味な人！": "Honestly! What a snide person!",
-  "しばらくは<user>への怒りを抱えていたリタだったが、<br>落ち着いたあとは、先ほど見た花のことを考え始める。": "At first Rita was full of anger toward %user%,<br>but once she calmed down, she began thinking about the flower she'd seen earlier.",
+  "しばらくは<user>への怒りを抱えていたリタだったが、<br>落ち着いたあとは、先ほど見た花のことを考え始める。": "At first Rita was full of anger toward <user>,<br>but once she calmed down, she began thinking about the flower she'd seen earlier.",
   "アリシアさんが分からないって言っていたお花……<br>あれ、最近できた品種なのでしょうか……？": "The flower Alicia said she didn't recognize...<br>Could it be a newly bred variety...?",
   "外見はナイトシェイドリリーに似ていたけど、色も違ったし、<br>あれは砂漠でしか育たないはず……": "It looked like a nightshade lily, but the color was different,<br>and that should only grow in the desert...",
   "そもそもナイトシェイドリリーは、毒のある瘴気を吐き出すから、<br>観賞用には向いてないわ。何かの間違いよね。": "Besides, nightshade lilies expel poisonous miasma,<br>so they're not suited for display. It must be some mistake.",
@@ -74,11 +74,11 @@
   "な、何ぃっ！？": "W-what!?",
   "嘘！？": "No way!?",
   "司令官さま、離れてぇぇっ！": "Commander, get back—!",
-  "リタが叫ぶと同時に、モンスターは一番近くにいた<br><user>に攻撃を放っていた。": "At the same moment Rita screamed, the monster attacked the nearest<br>%user%.",
+  "リタが叫ぶと同時に、モンスターは一番近くにいた<br><user>に攻撃を放っていた。": "At the same moment Rita screamed, the monster attacked the nearest<br><user>.",
   "うおっ！？": "Whoa!?",
   "司令官、大丈夫ですか！？": "Commander, are you all right!?",
   "ど、どうにかな……<br>あいつのおかげで、ギリギリ……": "I-I'm hanging in there...<br>Thanks to that guy, barely...",
-  "<user>はリタに視線を送るが、<br>リタは悪い想像が現実になったことに動揺を隠せない。": "%user% sends a glance to Rita, but<br>Rita can't hide how shaken she is now that her worst fears have come true.",
+  "<user>はリタに視線を送るが、<br>リタは悪い想像が現実になったことに動揺を隠せない。": "<user> sends a glance to Rita, but<br>Rita can't hide how shaken she is now that her worst fears have come true.",
   "あ、あぁっ……なんてこと……": "Ah... ahh... what is this...",
   "――夜の司令室。まんまと前線基地の中枢へ入り込んだモンスターは<br>雄々しく、叫び声を上げるのだった。": "—The command room at night. The monster that had slipped into the heart of the front-line base let out a triumphant roar.<br>"
 }
