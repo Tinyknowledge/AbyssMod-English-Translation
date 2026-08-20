@@ -1,6 +1,6 @@
 {
   "！？": "！？",
-  "背後からの不穏な気配を感じ、<user>が物凄い勢いで振り返る。<br>……が、そこには何もいない。": "Sensing an ominous presence behind them, <user> spins around with tremendous force.<br>...But there's nothing there.",
+  "背後からの不穏な気配を感じ、<user>が物凄い勢いで振り返る。<br>……が、そこには何もいない。": "Sensing an ominous presence behind them, %user% spins around with tremendous force.<br>...But there's nothing there.",
   "なんだ……今のは……？": "What... was that just now...?",
   "どうしたの？<br>……まさか、また敵！？": "What's wrong?<br>...Could it be—another enemy!?",
   "いや、違う。<br>何者かにジっと見つめられてるような気がしたんだ。": "No, that's not it.<br>I just felt like something was staring intently at me.",
@@ -28,7 +28,7 @@
   "変とは？": "Strange?",
   "魔力の気配が……上からする！": "The presence of magic... it’s coming from above!",
   "上……？": "Above...?",
-  "<user>の見上げた先――。<br>そこには、明らかに異なる様相の少女が空を飛んでいた。": "Where <user> looked up—<br>there was a girl who clearly stood out, flying in the sky.",
+  "<user>の見上げた先――。<br>そこには、明らかに異なる様相の少女が空を飛んでいた。": "Where %user% looked up—<br>there was a girl who clearly stood out, flying in the sky.",
   "こんにちは。はじめまして。": "Hello. Nice to meet you.",
   "空中から舞い降りた少女は、そう言って丁寧にお辞儀をする。": "The girl who floated down from the air said that and bowed politely.",
   "えっと、あなたは……？": "Um, you are...?",

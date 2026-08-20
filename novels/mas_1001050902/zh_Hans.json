@@ -1,6 +1,6 @@
 {
   "<size=48>――黒いタワー真下</size>": "――<size=48>Beneath the Black Tower</size>",
-  "巨大な黒い塔。その麓にたどり着いた<user>らは、<br>そこであの厄介な２人組と、再び鉢合わせることになる。": "A gigantic black tower. <user> and the others finally reached its base,<br>where they ran into that troublesome pair once more.",
+  "巨大な黒い塔。その麓にたどり着いた<user>らは、<br>そこであの厄介な２人組と、再び鉢合わせることになる。": "A gigantic black tower. %user% and the others finally reached its base,<br>where they ran into that troublesome pair once more.",
   "のわわわわ～っ！　ア、アンタたちぃ～～～！<br>い、生きてたのっ！？": "Whoaahhh! Y-you guys~~~!<br>Y-you're... still alive!?!",
   "教授……今の声色、なんか嬉しそうだったぞ！？": "Professor... you sounded kind of happy just now, didn't you!?",
   "はぁっ！？　助手くん何言ってんの！？　ちがうからね！<br>こいつらをアタシの手でとっちめられることが嬉しいだけだからっ！": "Huh!? Assistant, what are you talking about!? It's not like that!<br>I'm just glad I get to put these guys in their place myself!",
@@ -22,7 +22,7 @@
   "お前たちも気付いてたか。<br>まさか、アーデルハイトが応用した技術ってのが、ここにもあるとはな……": "So you noticed too.<br>I never thought the technique Adelheid put to use would be here as well…",
   "はぁっ！？　何言ってるのアンタたち……": "Huh!? What are you lot talking about…",
   "『リフト』だよ。使い方はアーデルハイトから教えてもらっている。<br>お前たち良かったな。そのお宝の場所まで辿り着くかもしれないぞ。": "It's a 'lift.' I learned how to use it from Adelheid.<br>You're in luck. It might take you straight to that treasure.",
-  "<user>が床に描かれている模様の一部に触れる。<br>すると足元から幾何学模様の光が床全体に広がっていく。": "<user> touches part of the pattern drawn on the floor.<br>Then geometric light spreads from beneath their feet across the entire floor.",
+  "<user>が床に描かれている模様の一部に触れる。<br>すると足元から幾何学模様の光が床全体に広がっていく。": "%user% touches part of the pattern drawn on the floor.<br>Then geometric light spreads from beneath their feet across the entire floor.",
   "視界が真っ白な光に包まれ、数秒にも満たないような永遠のような時間の後、<br>強烈な光が収まり、一行が立っていたのは――": "Their vision is swallowed by pure white light, and after a moment that feels both shorter than seconds and like an eternity,<br>the blinding glare subsides, and where the group is standing――",
   "<size=48>――黒いタワー　展望室</size>": "<size=48>――Black Tower Observation Deck</size>",
   "何ここ……？<br>さっきの駅長室みたいに、色んな機械が……": "What is this place…?<br>Like the station master's room earlier, there are all kinds of machines…",

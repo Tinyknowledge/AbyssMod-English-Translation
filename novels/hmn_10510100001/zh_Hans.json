@@ -66,7 +66,7 @@
   "え……？<br>護衛、ですか？": "Eh...?<br>A bodyguard?",
   "ああ。俺は常に腕利きを探してる。<br>お前が護衛をやってくれれば心強い。": "Yeah. I'm always looking for capable fighters.<br>Having you as my bodyguard would make me feel more secure.",
   "わたしはこんな体質なので、<br>働き口があるのはありがたいですが……あなたはいったい？": "With my condition, I'm grateful to have work...<br>but who exactly are you?",
-  "名乗るのが遅れたな。<br>俺は<user>。前線基地の司令官だ。": "I didn't introduce myself earlier.<br>I'm <user>. The commander of the frontline base.",
+  "名乗るのが遅れたな。<br>俺は<user>。前線基地の司令官だ。": "I didn't introduce myself earlier.<br>I'm %user%. The commander of the frontline base.",
   "司令官、さん……？<br>それでさっき、うちの兵士と言っていたんですね。": "Commander...?<br>So when you said 'my soldiers' earlier, you meant them.",
   "俺のところに来れば、１人でやるより情報も集めやすいぞ。<br>元の体に戻る手がかりも見つかるかもしれない。": "If you come to my place, it'll be easier to gather information than doing it alone.<br>You might even find a lead on how to get back to your original body.",
   "持ちつ持たれつのいい案だと思うんだが、どうだ？": "I think it's a mutually beneficial arrangement. What do you say?",

@@ -1,5 +1,5 @@
 {
-  "――エメルダは特ダネを求めて、<br><user>の尾行を続けていた。": "――Emelda, in pursuit of a scoop,<br>continued to tail <user>.",
+  "――エメルダは特ダネを求めて、<br><user>の尾行を続けていた。": "――Emelda, in pursuit of a scoop,<br>continued to tail %user%.",
   "（さて、特ダネさん。<br>夜遊びへ向かうつもりのようですが行き先はどこかな？）": "(Now then, Mr. Scoop.<br>It looks like you're heading out for a night on the town—where might you be going?)",
   "（法外なレートの闇賭博？　それとも隠し子のお世話？）": "(An underground gambling den with outrageous rates? Or taking care of a secret child?)",
   "（……いや、本当は分かってるよ。<br>特ダネさんは不真面目なところがあるけど根っこのところは――）": "(…No, I actually get it.<br>Scoop can be a bit flaky, but at heart he’s—)",
@@ -36,7 +36,7 @@
   "んなっ！？": "Wha!?",
   "えっ……特ダネさん！？": "Huh... Mr. Scoop!?",
   "俺だけじゃないぞ。<br>暗闇によく目を凝らしてみろ。": "I'm not the only one.<br>Look closely into the darkness.",
-  "――エメルダと盗賊団が言う通りにする。<br><user>の背後に前線基地の警備隊がずらりと並んでいた。": "As Emelda and the bandits had said.<br>Behind <user>, the frontline base's guards were lined up in formation.",
+  "――エメルダと盗賊団が言う通りにする。<br><user>の背後に前線基地の警備隊がずらりと並んでいた。": "As Emelda and the bandits had said.<br>Behind %user%, the frontline base's guards were lined up in formation.",
   "ねずみ捕りだ！　全員、かかれーっ！": "Catch those rats! Everyone, attack—!",
   "はっ！": "Yes!",
   "お前たちーっ！　覚悟しろー！": "You lot—! Brace yourselves!",
@@ -93,7 +93,7 @@
   "ははは！　そいつぁいいですね！<br>エメルダ、今日はとことん飲むぞーっ！": "Hahaha! That's a great idea!<br>Emelda, tonight we drink until we drop!",
   "えぇぇ～……あたし今、傷心してるんですけどぉぉー？": "Eeeh… I'm kind of heartbroken right now, you know?",
   "こんなところでお酒飲むより都会に戻りたいんですよぉぉおーっ！": "I'd much rather be back in the city than drinking in a place like this!",
-  "――<user>とエメルダを囲んでいた全員が大笑いをする。<br>どこからともなく乾杯の波が起こり、歓迎会が始まった。": "Everyone surrounding <user> and Emelda burst out laughing.<br>Somehow a wave of toasts rose up, and the welcome party began.",
+  "――<user>とエメルダを囲んでいた全員が大笑いをする。<br>どこからともなく乾杯の波が起こり、歓迎会が始まった。": "Everyone surrounding %user% and Emelda burst out laughing.<br>Somehow a wave of toasts rose up, and the welcome party began.",
   "（……まぁ、口が裂けても言わないけど――<br>この空気は正直、嫌いじゃないんだよね）": "(…I wouldn't admit it for anything —<br>but honestly, I don't dislike this atmosphere.)",
   "（特ダネさんも思ったより気が利くみたいだし……<br>前線基地暮らし、もう少し続けてみるかぁー）": "(…Mr. Scoop turned out to be more considerate than I expected…<br>Maybe I'll stick around at the front-line base a little longer.)"
 }

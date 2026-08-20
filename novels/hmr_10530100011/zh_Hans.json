@@ -4,7 +4,7 @@
   "ん～？　どれどれ？<br>よく見せてみろ。": "Hmm? Let me see.<br>Let me get a good look.",
   "っ！　後ろに立たないで！": "Don't stand behind me!",
   "うがっ！？": "Ugh!?",
-  "<user>の頬にシャノンの平手打ちが飛んだ。": "Shannon's slap landed on <user>'s cheek.",
+  "<user>の頬にシャノンの平手打ちが飛んだ。": "Shannon's slap landed on %user%'s cheek.",
   "あ、す、すまない……私は職業柄、<br>背後に立たれるのがひどく苦手でだな……だから、つい……": "Ah, s-s-sorry... It's because of my line of work—<br>I'm terribly uncomfortable with someone standing behind me... so I just...",
   "イテテテ……そ、それは悪かった。": "Ouch... Th-that was my fault.",
   "でも、その衣装、シャノンに似合うと思うぞ。": "But that outfit, I think it suits you, Shannon.",
@@ -17,9 +17,9 @@
   "研修？　……安心してくれ。<br>客が暴れてもすぐに射殺したりはしないぞ。": "Training? ...Relax.<br>If a customer starts causing trouble, I won't just shoot them on the spot.",
   "（店の雰囲気を壊さないよう、不慣れな衣装を着ることになったが<br>その程度で私の実力は変わらん。プロだからな）": "(To avoid ruining the shop's atmosphere I have to wear this unfamiliar outfit,<br>but that won't change my abilities. I'm a professional, after all.)",
   "それはそうだが、違う意味で客の心を射止めないとだめだろ。<br>……まぁ、ひとまず、俺に任せてくれ。": "That's true, but you've got to win the customers' hearts in a different sense.<br>...Anyway, leave it to me for now.",
-  "<user>はシャノンの背後に回り、そっと抱き締めた。": "<user> moved behind Shannon and gently hugged her.",
+  "<user>はシャノンの背後に回り、そっと抱き締めた。": "%user% moved behind Shannon and gently hugged her.",
   "なっ！　どうした急に！<br>私の後ろに立つなって、あれほど……あ、ああっ！？": "W-what! What are you doing all of a sudden!<br>I told you not to stand behind me—after all that... ah, aah!?",
-  "シャノンは軽く抵抗するが、<user>は<br>慣れた手付きでスルスルと服を脱がしてしまう。": "Shannon resists lightly, but <user><br>with practiced hands smoothly strips her of her clothes.",
+  "シャノンは軽く抵抗するが、<user>は<br>慣れた手付きでスルスルと服を脱がしてしまう。": "Shannon resists lightly, but %user%<br>with practiced hands smoothly strips her of her clothes.",
   "お、おい！　いくらオーナーでもやっていいことと悪いことが……！<br>は、話を聞け―っ！": "H-hey! Even if you're the owner, there are things you can and can't do...!<br>L-listen—!",
   "ちょっ、ちょっと待て！　い、悪戯が過ぎるぞ……<br>ちょ、ちょっと……お、オーナー？": "W-wait a minute! Th-that prank's gone too far...<br>W-wait... O-owner?"
 }

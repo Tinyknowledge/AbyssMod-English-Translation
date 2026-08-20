@@ -40,7 +40,7 @@
   "短期間で変わるもんじゃないだろうが、不変ってこともない。<br>メレムなら俺の手相で直近の未来を占うこともできるんじゃないか？": "Palm lines don't change overnight, but they're not fixed forever either.<br>If it's Melem, couldn't she read my hand to see the near future?",
   "……それは～～、うぅ……、<br>もしかしたら……可能、かもしれません。": "W-well~~, ugh...<br>Maybe... it might be possible.",
   "……昏き星、汝の運命は大きく揺れ動いている。<br>その手もまた常に変動する未来を示すはず。": "...Dark Star, your fate is being violently shaken.<br>Your hand should likewise indicate a future that's constantly shifting.",
-  "メレムは<user>の手を取り、ゆっくりと指を這わせる。<br>そして目にすら見えないかすかなラインをたどった。": "Melem took <user>'s hand and slowly let her fingers glide across it.<br>She traced a faint line so subtle it was barely visible to the eye.",
+  "メレムは<user>の手を取り、ゆっくりと指を這わせる。<br>そして目にすら見えないかすかなラインをたどった。": "Melem took %user%'s hand and slowly let her fingers glide across it.<br>She traced a faint line so subtle it was barely visible to the eye.",
   "ええ、未来は変わっていません。あなたは強い運気を得ている。<br>この大穴で大いなる幸運と巡り合うでしょう。": "Yes — the future hasn't changed. You are blessed with strong luck.<br>In this great cavern you will encounter great fortune.",
   "……っていう感じなんですけどぉ……。<br>どう、でしょう……？": "So... that's what it looks like...<br>How does that sound...?",
   "ああ、一番知りたかったことを教えてくれたよ。<br>さすがだ、メレム。": "Ah — you told me the thing I most wanted to know.<br>As expected, Melem.",

@@ -61,7 +61,7 @@
   "仕事か？　セレスト。": "You got work for us, Celeste?",
   "まぁね。マーケットで強盗をした男を探してる。<br>特徴はこの人が今から伝えるから。": "Sort of. We're looking for the man who robbed someone at the market.<br>This guy will give you the description now.",
   "あ、ああ。まず、身なりは……": "Ah—yeah. First, his clothing was...",
-  "<user>が特徴を伝えると、男たちは神妙な顔で頷いていく。<br>話を聞き終えると、彼らは表情を曇らせた。": "When <user> relayed the description, the men nodded solemnly.<br>After hearing the whole story, their expressions darkened.",
+  "<user>が特徴を伝えると、男たちは神妙な顔で頷いていく。<br>話を聞き終えると、彼らは表情を曇らせた。": "When %user% relayed the description, the men nodded solemnly.<br>After hearing the whole story, their expressions darkened.",
   "思ったより情報が薄いな。こいつは高くつくぜ？": "The info's thinner than I expected. This one's gonna be pricey, you know?",
   "大丈夫だよ。ちゃんと払うから。": "Don't worry. I'll pay up properly.",
   "気前がいいじゃねぇか。金が貰えるなら文句はねぇ。<br>待ってな。数時間もありゃあ、こいつの足取りが掴めてるだろうよ。": "You're generous, aren't you? If there's pay, we won't complain.<br>Give us a few hours and we'll have his movements tracked.",
@@ -86,7 +86,7 @@
   "そうするか。ルディア、俺にも１杯くれ。": "All right. Rudia, pour me one too.",
   "は～い♪": "Okay~♪",
   "おっ、ノリいいじゃん。酒がきたら乾杯しよ、乾杯♪": "Oh, you're upbeat. When the drinks come, let's toast—cheers♪",
-  "<user>とセレストは酒を飲みながらじっくり待つ。": "<user> and Celeste waited patiently while drinking.",
+  "<user>とセレストは酒を飲みながらじっくり待つ。": "%user% and Celeste waited patiently while drinking.",
   "（……不良ではあるが、一緒にいて楽しい奴ではあるな）": "(...A delinquent, sure, but he's actually fun to be around.)",
   "――そして数時間後、情報屋たちが強盗犯の居場所を割り出して戻ってきた。": "—A few hours later, the informants had tracked down the robbers' location and returned."
 }

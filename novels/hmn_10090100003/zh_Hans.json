@@ -72,7 +72,7 @@
   "なっ……ち、違うわよ！<br>ただちょっと、楽しもうって思っただけ！": "What...that's not true! <br>I just want to enjoy it a little bit!",
   "ふーん？<br>でも、お友達がこっちに来てるわよ？": "Oh~? <br>But your friend is here?",
   "え……": "Huh...",
-  "レヴィエーヌの視線の先に、<br>歩み寄る<user>の姿があった。": "In front of Levien's sight, <br> there was <user> walking towards her.",
+  "レヴィエーヌの視線の先に、<br>歩み寄る<user>の姿があった。": "In front of Levien's sight, <br> there was %user% walking towards her.",
   "レヴィエーヌ、よくやったな！<br>優勝おめでとう！": "Well done, Levien! <br>Congratulations on winning the championship!",
   "ちょっと、あんまり褒めないでよ……": "Hey, don't praise too much...",
   "でも……ありがとう。<br>あんたのおかげよ。": "But...thank you. <br>This is all thanks to you.",
@@ -87,5 +87,5 @@
   "で、答えは？": "So, what’s the answer?",
   "あんたは特訓に付き合ってくれたし、<br>特別に許してあげる！": "For the sake of your training with me,<br>I will give you special permission!",
   "うちとあんたで、<br>２人だけの祝勝会しましょ。": "Just you and me,<br>let’s have a celebration banquet that only belongs to two people.",
-  "<user>とレヴィエーヌは、<br>誰よりも楽しげに街へと消えていった。": "<user> and Levien, <br> disappeared into the street happily than anyone else."
+  "<user>とレヴィエーヌは、<br>誰よりも楽しげに街へと消えていった。": "%user% and Levien, <br> disappeared into the street happily than anyone else."
 }

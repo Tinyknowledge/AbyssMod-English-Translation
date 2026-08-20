@@ -1,5 +1,5 @@
 {
-  "――大穴探索が終わったあと、<br><user>とリタは森を探索していた。": "—After the great cavern exploration, <br><user> and Rita were exploring the forest.",
+  "――大穴探索が終わったあと、<br><user>とリタは森を探索していた。": "—After the great cavern exploration, <br>%user% and Rita were exploring the forest.",
   "ふふっ。この季節はお花がいっぱい咲いていて綺麗ですね～。": "Hehe. So many flowers bloom this season—it's beautiful~",
   "あぁっ！　あの黄色いお花はっ！　司令官さま！<br>ちょっとお花を摘んできていいですか？": "Ah! That yellow flower! Commander! <br>May I pick some?",
   "あ、あぁ。じゃあ俺はあっちを向いてるから……": "Ah, uh. I'll look the other way then...",
@@ -8,7 +8,7 @@
   "あの黄色いお花の葉っぱは薬草にもなるんです！<br>少しだけ摘んでいきましょう！": "The leaves of those yellow flowers can be used as medicinal herbs!<br>Let's just pick a few!",
   "本当に草花に詳しいな。え～と、黄色い花でいいんだよな？<br>こっちの花もか？": "You really know your plants. Uh—so yellow flowers will do, right?<br>What about these ones?",
   "あぁ～！　ダメです！　そっちのはムラムラ草で――！": "Ah—! No, don't! Those are arousal weeds—!",
-  "<user>が花を摘んだ瞬間、ぷしゅーっと花粉が舞い、<br>顔全体に降り掛かってしまった。": "<user> picked the flower, and at that moment pollen went pffft and<br>sprinkled all over his face.",
+  "<user>が花を摘んだ瞬間、ぷしゅーっと花粉が舞い、<br>顔全体に降り掛かってしまった。": "%user% picked the flower, and at that moment pollen went pffft and<br>sprinkled all over his face.",
   "けほっ！　けほっ！<br>なんだこりゃ……": "Cough! Cough!<br>What the heck...",
   "そ、それはムラムラ草と言って、花粉を浴びちゃった方は、そ、その……<br>気分がムラムラしてきてしまう毒草で……": "T-that is called arousal weed. If you get dusted with its pollen, um, you...<br>you'll start getting aroused—it's a poisonous herb...",
   "た、確かに、なんだかムラムラしてきて……": "Y-yeah, I do feel...kind of aroused...",
