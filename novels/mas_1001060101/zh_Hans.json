@@ -1,7 +1,7 @@
 {
   "<size=48>――前線基地　司令室</size>": "<size=48>――Frontline Base Command Room</size>",
   "机には、先日探索した『滅んだ街』の調査資料が乱雑に散らばっている。<br>薄暗いランプの光が、紙の束に影を落とす。": "On the desk, the research materials from the 'ruined city' we explored the other day lie scattered messily.<br>The dim lamp light casts shadows over the stacks of paper.",
-  "<user>は１人、<br>眉間に深い皺を刻み、報告書を睨みつけていた。": "Commander was alone,<br>furrowing their brow deeply as they glared at the report.",
+  "<user>は１人、<br>眉間に深い皺を刻み、報告書を睨みつけていた。": "<user> was alone,<br>furrowing their brow deeply as they glared at the report.",
   "コンコン！": "Knock knock!",
   "失礼します！": "Excuse me!",
   "静寂を切り裂くようにドアが静かに開き、<br>アリシアが入室する。": "The door quietly opened as if tearing through the silence,<br>Alicia entered the room.",
@@ -46,7 +46,7 @@
   "ええええ～～～っ！　アウラ様じゃないですかぁ～～っ！？<br>い、いつ前線基地へいらしたんですかぁ～！？": "Eeee—! Isn't that Lady Aura!?<br>W-when did you come to the frontline base!?",
   "ふふっ、久しぶりねマリナ。<br>ちょっと調査を兼ねてね。昨日到着したばかりよ。": "Heh heh, long time no see, Marina.<br>I'm here partly on an inspection. I arrived just yesterday.",
   "マリナがマーケットでばったり出会ったこの女性は、<br>エルドラーナを代表する外交官のアウラ。": "The woman Marina ran into in the market<br>is Aura, a diplomat representing Eldrana.",
-  "三大国会議に出席し、<user>を<br>前線基地の司令官に推薦した１人である。": "She attended the Three Great Nations' council and was one of the people who recommended Commander<br>to be the commander of the frontline base.",
+  "三大国会議に出席し、<user>を<br>前線基地の司令官に推薦した１人である。": "She attended the Three Great Nations' council and was one of the people who recommended <user><br>to be the commander of the frontline base.",
   "それより、随分とご機嫌じゃない。<br>儲かってるってことかしら？": "More importantly, you seem awfully chipper.<br>Does that mean you've been making money?",
   "あはは～～♪　ボチボチですぅ～。<br>実は、と～っても素敵な商売のアイデアを思いついたんですぅ～♪": "Ahaha~~♪ I'm doing so-so~.<br>Actually, I just came up with a suuuper wonderful business idea♪",
   "あら、それは景気がいい話ね。<br>成功することを祈っているわ。": "Oh? That sounds promising.<br>I hope it succeeds.",

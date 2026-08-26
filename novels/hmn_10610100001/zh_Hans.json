@@ -1,6 +1,6 @@
 {
   "<size=48>――昼の司令室</size>": "<size=48>――Daytime Command Room</size>",
-  "<user>は次の大穴探索に向けて<br>作戦を考えていた。": "Commander was working out a strategy for<br>the next big-cave exploration.",
+  "<user>は次の大穴探索に向けて<br>作戦を考えていた。": "<user> was working out a strategy for<br>the next big-cave exploration.",
   "まったく……いつになったら休めるのやら。": "Honestly... when will I ever get to rest?",
   "――コンコン！": "――Knock knock!",
   "アリシアか？<br>入っていいぞ。": "Alicia?<br>Come in.",
@@ -72,8 +72,8 @@
   "……んん？<br>虫……？": "Huh?<br>A bug…?",
   "ニナが見つめる先に花がある。<br>近付いてよく見ると、花びらの上に芋虫がいた。": "Nina was staring at a flower.<br>Getting closer to take a better look, I saw a caterpillar on one of the petals.",
   "こいつか。": "So that's the one.",
-  "<user>がひょい、と芋虫を拾い上げる。": "Commander casually scooped the caterpillar up.",
-  "――ニナはピューン！　と後方に跳んで間合いを取り、<br>ガチャリ、と音を立てて<user>に拳を向けてきた。": "Nina sprang backward with a whoosh to put some distance between us,<br>and with a clank aimed her fist at Commander.",
+  "<user>がひょい、と芋虫を拾い上げる。": "<user> casually scooped the caterpillar up.",
+  "――ニナはピューン！　と後方に跳んで間合いを取り、<br>ガチャリ、と音を立てて<user>に拳を向けてきた。": "Nina sprang backward with a whoosh to put some distance between us,<br>and with a clank aimed her fist at <user>.",
   "ふーっ、ふーっ！！！": "Huff—, huff—!!!",
   "お、落ち着け……！　威嚇するな！<br>こいつを遠くへ逃がすだけだ！": "S-settle down…! Don't try to intimidate me!<br>I'm only going to release it far away!",
   "近くの木へ芋虫を移すと、ニナはようやく殺気を引っ込める。": "After I moved the caterpillar to a nearby tree, Nina finally let go of her murderous intent.",
@@ -84,6 +84,6 @@
   "……！": "……！",
   "……かしこまりました。<br>優しい御主人様にお仕えできて、ニナも幸せです。": "…Understood.<br>Nina is happy to be able to serve such a kind master.",
   "ハハッ。そうか。<br>まぁ、よろしく頼む。": "Haha. Is that so.<br>Well then, I'm counting on you.",
-  "<user>は考える。さっきの鋭い反射神経に<br>無駄のない動き……ニナは高い戦闘能力を持っているに違いない。": "Commander thinks.<br>Those sharp reflexes from earlier and those economical movements… Nina must possess considerable combat ability.",
+  "<user>は考える。さっきの鋭い反射神経に<br>無駄のない動き……ニナは高い戦闘能力を持っているに違いない。": "<user> thinks.<br>Those sharp reflexes from earlier and those economical movements… Nina must possess considerable combat ability.",
   "（世話役だけでなく、警護役としても適任だ。<br>これは本当に、しばらく楽ができそうだぞ――）": "(Not just suitable as a caretaker, but fit as a guard as well.<br>This should really make things easier for a while――)"
 }

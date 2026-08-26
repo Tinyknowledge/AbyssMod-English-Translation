@@ -1,6 +1,6 @@
 {
   "<size=48>――前線基地内</size>": "<size=48>――Frontline Base</size>",
-  "天気は良いが、<user>とアリシアは<br>ゲホゲホと咳き込みながら、苦しそうに通りを歩いている。": "The weather is nice, but Commander and Alicia are<br>coughing and struggling as they walk down the street.",
+  "天気は良いが、<user>とアリシアは<br>ゲホゲホと咳き込みながら、苦しそうに通りを歩いている。": "The weather is nice, but <user> and Alicia are<br>coughing and struggling as they walk down the street.",
   "うぅむ……やはり調子が悪い。": "Ugh…… I still don't feel well.",
   "わたしもです～……<br>いったいなんなんでしょうね、この体調不良……": "Me too……<br>What on earth is this sickness……",
   "基地内であっという間に広がったが、医者の話では<br>風邪とかではないようだしな……早く原因を突き止めないと……": "It spread through the base in no time, but according to the doctors<br>it doesn't seem to be a cold… We need to find the cause quickly…",
@@ -13,7 +13,7 @@
   "フィオナお姉ちゃん、もっと出してーっ！": "Fiona, make more, please!",
   "子どもたちか……<br>楽しそうに遊んでいるが……": "Kids, huh…<br>They look like they're having fun, but…",
   "落ち着くまで、あまり外では遊ばないほうがいいですよね？<br>声を掛けに行きましょう！": "It's probably best they don't play outside until things calm down, right?<br>Let's go tell them!",
-  "<user>とアリシアは慌てて子どもたちへ駆け寄った。": "Commander and Alicia hurried over to the children.",
+  "<user>とアリシアは慌てて子どもたちへ駆け寄った。": "<user> and Alicia hurried over to the children.",
   "楽しく遊んでいるところ、すまん！": "Sorry to interrupt you while you're playing!",
   "ちょっとお話がっ！": "We need to talk for a moment!",
   "……ひゃっ！？": "—Eek!?",
@@ -21,7 +21,7 @@
   "――バシャアアアアーンンン！！": "—SPLAAASHHHH!!",
   "ぶっ！？": "Pft!?",
   "きゃああっ！？": "Aaaah!?",
-  "<user>とアリシアは突然、頭上から水をぶっかけられた。<br>ぽたぽたと髪の毛から水が滴っている。": "Commander and Alicia were suddenly soaked from above.<br>Water dripped from their hair.",
+  "<user>とアリシアは突然、頭上から水をぶっかけられた。<br>ぽたぽたと髪の毛から水が滴っている。": "<user> and Alicia were suddenly soaked from above.<br>Water dripped from their hair.",
   "あっ……": "Ah…",
   "あはは～！　お兄ちゃんとお姉ちゃん、ずぶぬれ～～！": "Ahaha! Big brother and big sister, you're totally soaked~~!",
   "い、いったい、どこから水が……？": "Wh-where on earth did the water come from…?",
@@ -74,7 +74,7 @@
   "（……褒めたわけではなかったんだが）": "(...I wasn't praising it, though.)",
   "ふふふっ♪": "Heh heh heh♪",
   "（なでなでなで）": "(pat pat pat)",
-  "<user>は無意識にフィオナの頭を撫で回す。": "Commander unconsciously strokes Fiona's head.",
+  "<user>は無意識にフィオナの頭を撫で回す。": "<user> unconsciously strokes Fiona's head.",
   "ひゃうっ……？<br>あ、あるじ、さま？": "Eek...?<br>Ah—master?",
   "あ、すまん。なぜか、つい撫でてしまった……<br>許してくれ。": "Ah, sorry. For some reason I just ended up petting you...<br>Please forgive me.",
   "い、いえっ！<br>びっくりしただけです。": "N-no!<br>I was just surprised.",
@@ -100,5 +100,5 @@
   "（……フィオナと話し始めてから、急激に体調が良くなったということか？）": "(...So their condition suddenly improved after they started talking with Fiona?)",
   "（それに、子どもたちがずっと元気だという話も気になる……）": "(And it's odd that the children have been energetic the whole time...)",
   "フィオナ。<br>急で悪いんだが、俺たちに力を貸してくれ。": "Fiona.<br>Sorry to be abrupt, but could you lend us your power?",
-  "原因不明の体調不良。<user>は水の精霊の力に、<br>克服するヒントがあるかもしれない、と考えたのであった。": "Faced with an unexplained ailment, Commander thought the water spirit's power<br>might hold a clue to overcoming it."
+  "原因不明の体調不良。<user>は水の精霊の力に、<br>克服するヒントがあるかもしれない、と考えたのであった。": "Faced with an unexplained ailment, <user> thought the water spirit's power<br>might hold a clue to overcoming it."
 }
