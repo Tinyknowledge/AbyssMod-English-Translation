@@ -1292,5 +1292,12 @@
   "営業回数UPキャンペーン開催中！": "Bonus Attempts Campaign Active!",
   "あと1回営業できます。": "You can reopen 1 more time.",
   "営業回数UPキャンペーン開催中！\nあと1回営業できます。": "Bonus Attempts Campaign Active!\nYou can reopen 1 more time.",
-  "前回クリアした編成内容でスキップを行います": "Uses your previous cleared setup."
+  "前回クリアした編成内容でスキップを行います": "Uses your previous cleared setup.",
+  "出撃する": "Deploy",
+  "シート11": "Sheet 11",
+  "シート12～": "Sheet 12+",
+  "撤退確認": "Retreat Confirmation",
+  "クエストから撤退しますか？": "Retreat from this quest?",
+  "※報酬を獲得することはできません": "You will not receive any rewards.",
+  "撤退する": "Retreat"
 }
