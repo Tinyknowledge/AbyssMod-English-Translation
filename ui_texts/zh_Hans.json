@@ -1299,5 +1299,21 @@
   "撤退確認": "Retreat Confirmation",
   "クエストから撤退しますか？": "Retreat from this quest?",
   "※報酬を獲得することはできません": "You will not receive any rewards.",
-  "撤退する": "Retreat"
+  "撤退する": "Retreat",
+  "/14文字": "/14",
+  "タイムスキップ": "Time Skip",
+  "タイムスキップは1回につき100個まで使用できます。": "Up to 100 Skip Tickets can be used at once.",
+  "探索隊名": "Expedition Team",
+  "ドロップボーナス": "Drop Bonus",
+  "堅牢な造りの兵士の剣と盾\nトレストリア地方では一般的なもの": "A sturdy sword and shield used by soldiers.\nCommon equipment in the Trestoria region.",
+  "名匠の手になる剣と盾、紋章：衝撃の力を\n解放した際に防御力が上昇する。": "A masterfully crafted sword and shield.\nReleasing Emblem: Impact increases defense.",
+  "豪快な戦士向けの剣と盾、紋章：情熱の\n力が高まった時に連撃率が上昇する。": "A bold sword and shield made for warriors.\nEmblem: Passion increases the consecutive attack rate.",
+  "緑の魔石を触媒として用いた杖。紋章：衝撃の力を\n解放した際にスキルチャージを高める": "A staff that uses a green magic stone as a catalyst.\nReleasing Emblem: Impact increases Skill Charge.",
+  "魔力を拡散させる様にして放つ銃\n制御は難しいが威力は高い。": "A gun that fires by dispersing magical power.\nDifficult to control, but extremely powerful.",
+  "魔力を束ねて放つ銃、紋章：情熱の\n力の高まりに合わせて会心率が上昇する。": "A gun that concentrates magical power before firing.\nEmblem: Passion increases Critical Rate as its power rises.",
+  "触媒として魔石を用いた杖、紋章：情熱の力の\n高まりに合わせて攻撃力を上昇させる。": "A staff that uses a magic stone as a catalyst.\nEmblem: Passion increases Attack Power as its power rises.",
+  "狩人たちの使う銃、紋章：衝撃の宝を\n解放した際に会心率を上昇させる。": "A gun commonly used by hunters.\nReleasing Emblem: Impact increases Critical Rate.",
+  "鋼鉄製の無骨な手甲、紋章：衝撃に関連する\nエンチャントが付与されることがある。": "Rugged gauntlets made of steel.\nMay carry an enchantment related to Emblem: Impact.",
+  "獣の爪を模した鉤爪、紋章：情熱に関連する\nエンチャントが付与されることがある。": "Claws modeled after the talons of a beast.\nMay carry an enchantment related to Emblem: Passion.",
+  "羽根の装飾があしらわれた手甲\n重さを感じないほど軽く、扱いやすい": "Gauntlets decorated with feathers.\nSo light they feel weightless and are easy to wield."
 }
