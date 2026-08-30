@@ -718,7 +718,7 @@
   "銃": "gun",
   "大剣": "great sword",
   "施設へ": "Facilities",
-  "片手剣": "one handed sword",
+  "片手剣": "1H Sword",
   "魔導書": "magic book",
   "ゴールド": "gold",
   "ピッケル": "ice ax",
@@ -1322,7 +1322,5 @@
   "鑑定結果を確定しました。": "Appraisal result confirmed.",
   "この鑑定結果で確定させますか？再鑑定することで結果を変更することができます。": "Confirm this result? You can reappraise to change it.",
   "鑑定レンズ不足": "Not Enough Lenses",
-  "<color=#4cf37b>鑑定レンズ</color>を消費して<color=#4cf37b>再鑑定</color>を行いますか？": "Use an <color=#4cf37b>Appraisal Lens</color> to <color=#4cf37b>reappraise</color>?",
-  "結果を確定しますか？": "Confirm this result?",
-  "※確定後も再鑑定を行うことは可能です": "※ You can reappraise after confirming."
+  "<color=#4cf37b>鑑定レンズ</color>を消費して<color=#4cf37b>再鑑定</color>を行いますか？": "Use an <color=#4cf37b>Appraisal Lens</color> to <color=#4cf37b>reappraise</color>?"
 }
