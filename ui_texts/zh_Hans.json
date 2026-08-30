@@ -1322,5 +1322,7 @@
   "鑑定結果を確定しました。": "Appraisal result confirmed.",
   "この鑑定結果で確定させますか？再鑑定することで結果を変更することができます。": "Confirm this result? You can reappraise to change it.",
   "鑑定レンズ不足": "Not Enough Lenses",
-  "<color=#4cf37b>鑑定レンズ</color>を消費して<color=#4cf37b>再鑑定</color>を行いますか？": "Use an <color=#4cf37b>Appraisal Lens</color> to <color=#4cf37b>reappraise</color>?"
+  "<color=#4cf37b>鑑定レンズ</color>を消費して<color=#4cf37b>再鑑定</color>を行いますか？": "Use an <color=#4cf37b>Appraisal Lens</color> to <color=#4cf37b>reappraise</color>?",
+  "結果を確定しますか？": "Confirm this result?",
+  "※確定後も再鑑定を行うことは可能です": "※ You can reappraise after confirming."
 }
