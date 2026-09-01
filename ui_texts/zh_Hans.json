@@ -1342,5 +1342,18 @@
   "発展度": "Development",
   "強化可能": "Can Enhance",
   "施設効果": "Facility Effect",
-  "開発段階一覧": "Development Stages"
+  "開発段階一覧": "Development Stages",
+  "営業をスキップします。": "Skip this operation.",
+  "前回クリアした配置・営業成績でスキップを行います": "Skip using your previous cleared setup and results.",
+  "キャンペーン分のスキップ回数を全て消費すると通常のスキップになります": "After all campaign skips are used, normal skips will be used.",
+  "おしごと報酬は前回の営業成績から算出され、前回の報酬と異なる場合があります": "Rewards are calculated from your previous results and may differ from last time.",
+  "第1階層": "Floor 1",
+  "第2階層": "Floor 2",
+  "第3階層": "Floor 3",
+  "追加アイテム入手確率UP": "Bonus Drop Rate Up",
+  "9話": "Ep. 9",
+  "絆ポイント": "Bond Pt",
+  "交流施設": "Interaction",
+  "イベント階層": "Event",
+  "戦闘ストーリー": "Story"
 }
