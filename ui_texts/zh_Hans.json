@@ -1539,5 +1539,11 @@
   "月間報酬": "Monthly Rewards",
   "収集報酬": "Collection Rewards",
   "アビスコード収集報酬": "Abyss Code Collection Rewards",
-  "効果説明": "Effect Description"
+  "効果説明": "Effect Description",
+  "インパクトコード系統": "Impact Code",
+  "ラッシュコード系統": "Rush Code",
+  "セーフコード系統": "Safe Code",
+  "リスクコード系統": "Risk Code",
+  "<color=#ff8232>浸食率10上昇</color>,<color=#4cf37b>HP10％回復</color>": "<color=#ff8232>Erosion +10</color>, <color=#4cf37b>HP +10%</color>",
+  "深淵に浸され変質した魔導書、紋章：情熱の力の\n高まりに合わせてスキルチャージが上昇する。": "An Abyss-corrupted grimoire. Skill charge increases as Emblem: Passion grows stronger."
 }
