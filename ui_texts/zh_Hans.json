@@ -1566,5 +1566,8 @@
   "初期地点から": "Starting Area",
   "チェックポイントから始める": "Start from Checkpoint",
   "初期地点から\nゲームを開始する": "Start from the Starting Area",
-  "10Fからゲームを\n開始する": "Start from Floor 10"
+  "10Fからゲームを\n開始する": "Start from Floor 10",
+  "チェックポイント<br>から始める": "Start from Checkpoint",
+  "初期地点から<br>ゲームを開始する": "Start from Starting Area",
+  "10Fからゲームを<br>開始する": "Start from Floor 10"
 }
