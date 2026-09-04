@@ -1,4 +1,4 @@
-# AbyssMod-English-Translation
+# AbyssMod-English-Translation PC FANZA
 A Small Note
 
 This is my first time working on a mod/project like this, so please keep in mind that it may not be perfect. I originally started this for myself and decided to share it in case other English-speaking players find it useful.
