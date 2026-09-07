@@ -13,7 +13,7 @@ If you find an issue, feel free to report it. Just be patient with me—I’m le
 
 Most importantly, I hope the mod makes the game a little easier and more enjoyable for English-speaking players. 
 
-Credits & Note
+# Credits & Note
 
 Based on the original AbyssMod by anosu.
 
