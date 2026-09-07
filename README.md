@@ -15,7 +15,7 @@ Most importantly, I hope the mod makes the game a little easier and more enjoyab
 
 # Credits & Note
 
-This English translation is made for AbyssMod, created by anosu.
+This English translation is made for [AbyssMod](https://github.com/anosu/AbyssMod), created by anosu.
 
 I originally made this translation for myself so I could enjoy the game in English. I'm sharing it here in case anyone else wants to use it too.
 
