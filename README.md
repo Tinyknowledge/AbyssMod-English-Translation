@@ -15,8 +15,8 @@ Most importantly, I hope the mod makes the game a little easier and more enjoyab
 
 # Credits & Note
 
-Based on the original AbyssMod by anosu.
+This English translation is made for AbyssMod, created by anosu.
 
-I originally made this English translation for myself so I could enjoy the game in English. I'm sharing it here in case anyone else wants to use it too.
+I originally made this translation for myself so I could enjoy the game in English. I'm sharing it here in case anyone else wants to use it too.
 
-This is just a personal, unofficial fan project. All original game content belongs to its respective owners.
+This is an unofficial personal fan translation. All original game content belongs to its respective owners.
