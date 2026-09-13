@@ -393,7 +393,7 @@
   "ログインボーナス": "login bonus",
   "一括ダウンロード": "Bulk download",
   "他の階層を探索中": "Exploring other levels",
-  "装備　　　  個": "Equipment Quantity",
+  "装備　　　  個": "Gear          pcs",
   "あと11時間59分": "あと11時間59分",
   "おまかせカード選択": "Random card selection",
   "フォースチェイン：": "Force chain:",
@@ -1016,7 +1016,7 @@
   "更新すると現在のボックスは引くことができなくなります。": "Once updated, the current box will no longer be able to be drawn.",
   "選択したクエストには出撃できません\n元の画面に戻ります": "You cannot sortie to the selected quest\n Return to the original screen",
   "順調、順調♪<br>もっと可愛い女の子を紹介して頂戴♪": "Going well, going well ♪ <br> Please introduce me to more cute girls ♪",
-  "シンクロLvを{0}にすることで上限解放が可能になります": "The upper limit can be released by setting the synchro Lv to {0}",
+  "シンクロLvを{0}にすることで上限解放が可能になります": "Reach Sync Lv {0} to unlock the cap.",
   "出撃条件を満たしていないキャラクターが編成されています。": "A character who does not meet the sortie conditions has been assembled.",
   "※上限を超えた経験石は保存できませんので、ご注意ください。": "*Please note that experience stones that exceed the upper limit cannot be saved.",
   "このままでは防壁が持ちません！\\n急いでください、司令官！": "At this rate, the barrier will not last! \\nHurry up, Commander!",
@@ -1592,5 +1592,6 @@
   "アビスコードを20個獲得して130階層から帰還する": "Obtain 20 Abyss Codes and return from Floor 130",
   "深淵に浸され変質した杖、紋章：情熱の力の\n高まりに合わせて連撃率が上昇する。": "A staff altered by the Abyss.\nCombo rate rises as Emblem: Passion grows stronger.",
   "「アイテム一覧」で使用することで、装備「ランク5」のレアリティ「レジェンダリー」で「紋章：情熱」エンチャントを持つ「武器」をBOXラインナップから選んで、1個獲得できる。": "Use this from the Item List to choose one Rank 5 Legendary weapon with the Emblem: Passion enchantment from the box lineup.",
-  "「アイテム一覧」で使用することで、装備「ランク5」のレアリティ「レジェンダリー」で「紋章：衝撃」エンチャントを持つ「武器」をBOXラインナップから選んで、1個獲得できる。": "Use this from the Item List to choose one Rank 5 Legendary weapon with the Emblem: Impact enchantment from the box lineup."
+  "「アイテム一覧」で使用することで、装備「ランク5」のレアリティ「レジェンダリー」で「紋章：衝撃」エンチャントを持つ「武器」をBOXラインナップから選んで、1個獲得できる。": "Use this from the Item List to choose one Rank 5 Legendary weapon with the Emblem: Impact enchantment from the box lineup.",
+  "シンクロLvを80にすることで上限解放が可能になります": "Reach Sync Lv 80 to unlock the cap."
 }
